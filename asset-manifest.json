@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mypia/static/css/main.bf1f7db3.css",
+    "main.js": "/mypia/static/js/main.f1886430.js",
+    "static/js/488.9c92ff38.chunk.js": "/mypia/static/js/488.9c92ff38.chunk.js",
+    "static/media/image1.jpg": "/mypia/static/media/image1.23955dca041218741e33.jpg",
+    "static/media/banner.jpg": "/mypia/static/media/banner.47f7314f4b1668ffe443.jpg",
+    "static/media/vision.jpg": "/mypia/static/media/vision.5188631e2dba0174459e.jpg",
+    "static/media/image2.jpg": "/mypia/static/media/image2.22b409f12e02072f0bf9.jpg",
+    "static/media/flight1.jpg": "/mypia/static/media/flight1.95ba644ed0668ea2e9a6.jpg",
+    "static/media/career.jpg": "/mypia/static/media/career.25aa06584c880e1a9aff.jpg",
+    "static/media/ourteam.jpg": "/mypia/static/media/ourteam.25aa06584c880e1a9aff.jpg",
+    "static/media/offer5.jpg": "/mypia/static/media/offer5.6db0462f58ef6dc056eb.jpg",
+    "static/media/fly4.jpg": "/mypia/static/media/fly4.d713d1e969725d8e2735.jpg",
+    "static/media/discount2.jpg": "/mypia/static/media/discount2.ab9a16ccddcd2893cdf1.jpg",
+    "static/media/media3.jpg": "/mypia/static/media/media3.0e5038f14a1699fa09ae.jpg",
+    "static/media/offer3.jpg": "/mypia/static/media/offer3.5fc8098bfe0fecddfa20.jpg",
+    "static/media/offer1.jpg": "/mypia/static/media/offer1.832755814b92fda28822.jpg",
+    "static/media/news2.jpg": "/mypia/static/media/news2.096defea87a28c10e0bf.jpg",
+    "static/media/nusk5.jpg": "/mypia/static/media/nusk5.130bd46e06c3f37ee6af.jpg",
+    "static/media/offer2.jpg": "/mypia/static/media/offer2.2931c9394822b2ae8336.jpg",
+    "static/media/news3.jpg": "/mypia/static/media/news3.ac16d40c86dfb8948ef9.jpg",
+    "static/media/service2.jpg": "/mypia/static/media/service2.8ddcb7f5c1f3ce4fad83.jpg",
+    "static/media/news1.jpg": "/mypia/static/media/news1.a24513bf8270e5b8d981.jpg",
+    "static/media/service1.jpg": "/mypia/static/media/service1.0557d9d0e91984760897.jpg",
+    "static/media/service4.jpg": "/mypia/static/media/service4.dbab4c25328046c32a3b.jpg",
+    "static/media/service3.jpg": "/mypia/static/media/service3.4a5d12c13bc8e135805c.jpg",
+    "static/media/thirdrow.jpg": "/mypia/static/media/thirdrow.f8dafee7005a70eba53c.jpg",
+    "static/media/firstrow.jpg": "/mypia/static/media/firstrow.f190708a324cb33271eb.jpg",
+    "static/media/secondrow.jpg": "/mypia/static/media/secondrow.9b4d7720a46ddcb1d66c.jpg",
+    "static/media/mainBanner.jpg": "/mypia/static/media/mainBanner.9b26354b4a7726f943ec.jpg",
+    "static/media/offer4.jpg": "/mypia/static/media/offer4.817dec1a1cc8e36e56a6.jpg",
+    "static/media/logo1.png": "/mypia/static/media/logo1.9758aa68447e28e4031e.png",
+    "index.html": "/mypia/index.html",
+    "main.bf1f7db3.css.map": "/mypia/static/css/main.bf1f7db3.css.map",
+    "main.f1886430.js.map": "/mypia/static/js/main.f1886430.js.map",
+    "488.9c92ff38.chunk.js.map": "/mypia/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1f7db3.css",
+    "static/js/main.f1886430.js"
+  ]
+}
